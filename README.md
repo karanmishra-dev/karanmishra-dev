@@ -64,7 +64,7 @@ I enjoy transforming ideas into real-world applications using the **MERN Stack**
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/">
+<a href="https://www.geeksforgeeks.org/profile/karan2062f71g">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
 </a>
 
@@ -157,7 +157,7 @@ I enjoy transforming ideas into real-world applications using the **MERN Stack**
 
 ## IBM SkillsBuild Internship
 
-**Role:** Full Stack Development Intern
+**Role:** FrontEnd Development Intern
 
 ### During the internship I
 
