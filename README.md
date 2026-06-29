@@ -56,7 +56,7 @@ I enjoy transforming ideas into real-world applications using the **MERN Stack**
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://portfolio-j2ec.vercel.app/">
+<a href="https://developer-portfolio-pearl-one.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
